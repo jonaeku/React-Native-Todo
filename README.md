@@ -22,4 +22,4 @@ For more information visit [React Native Documentation](https://reactnative.dev/
 
 ## Presentation
 
-The presentation for this e-Portfolio can be found [here.]()
+The presentation for this e-Portfolio can be found [here.](https://github.com/jonaeku/React-Native-Todo/blob/main/React%20Native.pdf)
